@@ -1,0 +1,1 @@
+plot "C:/Users/27les/Desktop/out.txt" u 1:2 w l lw 3 lc rgb "black"
